@@ -8,6 +8,8 @@ Try it yourself: [Disney Character Search Example](http://htmlpreview.github.io/
 
 ## Fork
 
+@iguacel/fuzzy@0.1.3
+
 Added diactritics support
 https://github.com/mattyork/fuzzy/issues/39
 
